@@ -1,0 +1,226 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Pizzeria
+</name>
+</assembly>
+<members>
+<member name="T:proyecto_AlexanderBM.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources._exit">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.aaa">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.arrow_pointing_to_right__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.arrow_pointing_to_right__1_1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.cancel_button">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.cart__2_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.cart__2_1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.chef_1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.cuadros">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.fondo_pizza">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.fondo_pizza2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.fondo_pizza21">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.fondo_pizza22">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.hiclipart_com_id_icaji">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.iconfinder_button_rotate_ccw_basic_yellow_70034">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.iconfinder_home_1608930">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.iconfinder_internet_2428672">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.iconfinder_internet_2428672__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.iconfinder_pizza_italian_food_fast_fastfood_cheese_piece_4306506">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.iconfinder_pizza_italian_food_fast_fastfood_cheese_piece_4306506__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.izquierda_pic_pizza">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.izquierda_pic_pizza_2222">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.jugos">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.left_arrow_key">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.left_arrow_key1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.log_in__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.moustache__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.moustache1111">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.orange_juice__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.orange_juice__1_1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.pizza__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.pizza__1_1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.pizza_loading">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.pizza_loading_v2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.pizza_loading_v3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.pizza_loadinnng">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.pizza_slice__2_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.refresh_button">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.refresh_button1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:proyecto_AlexanderBM.My.Resources.Resources.USER3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

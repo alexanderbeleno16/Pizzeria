@@ -1,0 +1,51 @@
+F:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\bin\Debug\Pizzeria.exe
+F:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\bin\Debug\Pizzeria.pdb
+F:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\bin\Debug\Pizzeria.xml
+F:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\obj\x86\Debug\proyecto_AlexanderBM.Form1.resources
+F:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\obj\x86\Debug\proyecto_AlexanderBM.frmLogin.resources
+F:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\obj\x86\Debug\proyecto_AlexanderBM.frmPrincipal.resources
+F:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\obj\x86\Debug\proyecto_AlexanderBM.Resources.resources
+F:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\obj\x86\Debug\Pizzeria.vbproj.GenerateResource.Cache
+F:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\obj\x86\Debug\Pizzeria.exe
+F:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\obj\x86\Debug\Pizzeria.xml
+F:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\obj\x86\Debug\Pizzeria.pdb
+D:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\obj\x86\Debug\Pizzeria.exe
+D:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\obj\x86\Debug\Pizzeria.xml
+D:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\obj\x86\Debug\Pizzeria.pdb
+L:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\obj\x86\Debug\Pizzeria.exe
+L:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\obj\x86\Debug\Pizzeria.xml
+L:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\obj\x86\Debug\Pizzeria.pdb
+L:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\bin\Debug\Pizzeria.exe
+L:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\bin\Debug\Pizzeria.pdb
+L:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\bin\Debug\Pizzeria.xml
+L:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\obj\x86\Debug\proyecto_AlexanderBM.Form1.resources
+L:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\obj\x86\Debug\proyecto_AlexanderBM.frmLogin.resources
+L:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\obj\x86\Debug\proyecto_AlexanderBM.frmPrincipal.resources
+L:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\obj\x86\Debug\proyecto_AlexanderBM.Resources.resources
+L:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\obj\x86\Debug\Pizzeria.vbproj.GenerateResource.Cache
+E:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\obj\x86\Debug\Pizzeria.exe
+E:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\obj\x86\Debug\Pizzeria.xml
+E:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\obj\x86\Debug\Pizzeria.pdb
+E:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\bin\Debug\Pizzeria.exe
+E:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\bin\Debug\Pizzeria.pdb
+E:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\bin\Debug\Pizzeria.xml
+E:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\obj\x86\Debug\proyecto_AlexanderBM.Form1.resources
+E:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\obj\x86\Debug\proyecto_AlexanderBM.frmLogin.resources
+E:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\obj\x86\Debug\proyecto_AlexanderBM.frmPrincipal.resources
+E:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\obj\x86\Debug\proyecto_AlexanderBM.Resources.resources
+E:\ADSI - Analisis y Desarrollo de Sistemas de Informacion 2019\PROYECTOS-VB.NET\Ejercicios_AlexanderBM\Pizzeria\Pizzeria\obj\x86\Debug\Pizzeria.vbproj.GenerateResource.Cache
+F:\Pizzeria_AlexanderBM + manual\Pizzeria\Pizzeria\obj\x86\Debug\Pizzeria.exe
+F:\Pizzeria_AlexanderBM + manual\Pizzeria\Pizzeria\obj\x86\Debug\Pizzeria.xml
+F:\Pizzeria_AlexanderBM + manual\Pizzeria\Pizzeria\obj\x86\Debug\Pizzeria.pdb
+G:\Pizzeria_AlexanderBM + manual\Pizzeria\Pizzeria\obj\x86\Debug\Pizzeria.exe
+G:\Pizzeria_AlexanderBM + manual\Pizzeria\Pizzeria\obj\x86\Debug\Pizzeria.xml
+G:\Pizzeria_AlexanderBM + manual\Pizzeria\Pizzeria\obj\x86\Debug\Pizzeria.pdb
+G:\Pizzeria_AlexanderBM + manual\Pizzeria\Pizzeria\bin\Debug\Pizzeria.exe
+G:\Pizzeria_AlexanderBM + manual\Pizzeria\Pizzeria\bin\Debug\Pizzeria.pdb
+G:\Pizzeria_AlexanderBM + manual\Pizzeria\Pizzeria\bin\Debug\Pizzeria.xml
+G:\Pizzeria_AlexanderBM + manual\Pizzeria\Pizzeria\obj\x86\Debug\proyecto_AlexanderBM.Form1.resources
+G:\Pizzeria_AlexanderBM + manual\Pizzeria\Pizzeria\obj\x86\Debug\proyecto_AlexanderBM.frmLogin.resources
+G:\Pizzeria_AlexanderBM + manual\Pizzeria\Pizzeria\obj\x86\Debug\proyecto_AlexanderBM.frmPrincipal.resources
+G:\Pizzeria_AlexanderBM + manual\Pizzeria\Pizzeria\obj\x86\Debug\proyecto_AlexanderBM.Resources.resources
+G:\Pizzeria_AlexanderBM + manual\Pizzeria\Pizzeria\obj\x86\Debug\Pizzeria.vbproj.GenerateResource.Cache
+G:\Pizzeria_AlexanderBM + manual\Pizzeria\Pizzeria\obj\x86\Debug\Pizzeria.vbprojResolveAssemblyReference.cache

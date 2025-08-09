@@ -1,0 +1,11 @@
+C:\Users\ADSI25\AppData\Local\Temporary Projects\proyecto_AlexanderBM\bin\Debug\proyecto_AlexanderBM.exe
+C:\Users\ADSI25\AppData\Local\Temporary Projects\proyecto_AlexanderBM\bin\Debug\proyecto_AlexanderBM.pdb
+C:\Users\ADSI25\AppData\Local\Temporary Projects\proyecto_AlexanderBM\bin\Debug\proyecto_AlexanderBM.xml
+C:\Users\ADSI25\AppData\Local\Temporary Projects\proyecto_AlexanderBM\obj\x86\Debug\proyecto_AlexanderBM.Form1.resources
+C:\Users\ADSI25\AppData\Local\Temporary Projects\proyecto_AlexanderBM\obj\x86\Debug\proyecto_AlexanderBM.frmLogin.resources
+C:\Users\ADSI25\AppData\Local\Temporary Projects\proyecto_AlexanderBM\obj\x86\Debug\proyecto_AlexanderBM.Resources.resources
+C:\Users\ADSI25\AppData\Local\Temporary Projects\proyecto_AlexanderBM\obj\x86\Debug\proyecto_AlexanderBM.vbproj.GenerateResource.Cache
+C:\Users\ADSI25\AppData\Local\Temporary Projects\proyecto_AlexanderBM\obj\x86\Debug\proyecto_AlexanderBM.exe
+C:\Users\ADSI25\AppData\Local\Temporary Projects\proyecto_AlexanderBM\obj\x86\Debug\proyecto_AlexanderBM.xml
+C:\Users\ADSI25\AppData\Local\Temporary Projects\proyecto_AlexanderBM\obj\x86\Debug\proyecto_AlexanderBM.pdb
+C:\Users\ADSI25\AppData\Local\Temporary Projects\proyecto_AlexanderBM\obj\x86\Debug\proyecto_AlexanderBM.frmPrincipal.resources
